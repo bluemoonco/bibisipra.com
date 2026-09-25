@@ -10,8 +10,10 @@
   <meta name="theme-color" content="#000000">
   <link rel="canonical" href="https://www.bibisipra.com/">
 
-  <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
-  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="icon" href="/favicon.ico" sizes="16x16 32x32 48x48 64x64">
+  <link rel="icon" href="/assets/favicon-192.png" type="image/png" sizes="192x192">
+  <link rel="icon" href="/assets/favicon.svg?v=2" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png?v=2">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,600&family=Roboto:wght@300;400;600;700&display=swap">
@@ -316,13 +318,11 @@
         <p class="contact__lead">Recruiters, search firms and hiring managers: share the role and location, or request a CV. Messages go straight to Bibi's inbox.</p>
 
         <form class="form" id="leadForm" action="https://api.web3forms.com/submit" method="post" novalidate>
-          <!-- anti-spam: honeypot (hidden from humans) + render timestamp -->
+          <!-- anti-spam: Web3Forms' own honeypot checkbox (hidden from humans; browsers never autofill checkboxes).
+               Do NOT add a text honeypot here — Chrome autofill fills fields like "company website" and real leads get silently dropped. -->
           <div class="hp" aria-hidden="true">
-            <label for="company_website">Company website</label>
-            <input type="text" id="company_website" name="company_website" tabindex="-1" autocomplete="off">
-            <input type="checkbox" name="botcheck" tabindex="-1">
+            <input type="checkbox" name="botcheck" tabindex="-1" autocomplete="off">
           </div>
-          <input type="hidden" name="form_started" id="formStarted" value="">
           <input type="hidden" name="page_source" value="bibisipra.com — Direct Contact form">
 
           <!-- ============================================================
@@ -395,6 +395,6 @@
     </div>
   </footer>
 
-  <script src="/assets/contact.js?v=2" defer></script>
+  <script src="/assets/contact.js?v=3" defer></script>
 </body>
 </html>
