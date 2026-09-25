@@ -1,1 +1,7 @@
-/index.html / 301
+# Old Weebly URLs -> new canonical pages (apex -> www is a Cloudflare Redirect Rule, not here)
+/index.html      /           301
+/contact.html    /#contact   301
+/contact         /#contact   301
+/about.html      /           301
+/uploads/*       /           301
+/store/*         /           301

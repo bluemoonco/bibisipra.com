@@ -1,4 +1,29 @@
+# bibisipra.com — professional profile. All crawlers welcome, including
+# search engines, AI assistants and recruiting/job-matching bots.
 User-agent: *
 Allow: /
+Disallow: /thank-you/
+
+# AI search & assistant crawlers (explicitly allowed for visibility)
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Google-Extended
+User-agent: Applebot
+User-agent: Applebot-Extended
+User-agent: Bingbot
+User-agent: DuckAssistBot
+User-agent: Amazonbot
+User-agent: meta-externalagent
+User-agent: MistralAI-User
+User-agent: CCBot
+User-agent: LinkedInBot
+Allow: /
+Disallow: /thank-you/
 
 Sitemap: https://www.bibisipra.com/sitemap.xml
