@@ -1,6 +1,6 @@
 # bibisipra.com — audit and implementation
 
-Reviewed 25 September 2026. This report distinguishes observed production behavior from the replacement implementation. Committing this repository does not prove a production deployment.
+Reviewed 25 September 2026. Contact-flow update: the user subsequently requested removal of LinkedIn. The current implementation uses the on-page inquiry form with bibisipra@gmail.com as the intended recipient; Web3Forms activation is still required. The tables below describe the initial audit/rebuild. This report distinguishes observed production behavior from the replacement implementation. Committing this repository does not prove a production deployment.
 
 ## Current production findings
 

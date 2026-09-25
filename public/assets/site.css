@@ -17,3 +17,15 @@
   @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
   @media print{:root{color-scheme:light;--bg:white;--panel:white;--text:#111;--muted:#333;--accent:#222;--line:#aaa}body{font-size:10pt}.site-header,.hero-portrait,.hero-shade,.actions,.contact,.site-footer,.recruiter-section{display:none}.wrap{width:100%}.hero{background:white;min-height:0;padding:0}.hero-content{padding:0}.hero h1{font-size:30pt}.hero-content>*{max-width:none}.section{padding-block:20px}h2{font-size:22pt}h3{font-size:14pt}.expertise-grid{grid-template-columns:1fr 1fr}.experience-layout{gap:25px}.proof-grid{padding-block:15px}.cities{margin-block:20px}article{break-inside:avoid}}
 }
+
+@layer components {
+  .inquiry-form{text-align:left;margin-top:40px;padding:30px;background:var(--panel);border:1px solid var(--line)}
+  .form-grid{display:grid;grid-template-columns:1fr 1fr;gap:22px}
+  .form-grid label{display:flex;flex-direction:column;gap:8px;color:var(--text);font-size:14px}
+  .form-grid input,.form-grid textarea{width:100%;border:1px solid #64746b;border-radius:0;background:#111715;color:var(--text);font:16px/1.5 Arial,Helvetica,sans-serif;padding:12px 14px;min-height:48px}
+  .form-grid textarea{resize:vertical;min-height:150px}.form-grid input::placeholder,.form-grid textarea::placeholder{color:#aab4ac;opacity:1}
+  .form-grid input:focus-visible,.form-grid textarea:focus-visible{outline:2px solid var(--accent);outline-offset:3px}.form-full{grid-column:1/-1}
+  .contact .form-help,.contact .form-privacy,.contact .form-status{font-size:13px;line-height:1.6}.contact .form-privacy{margin-top:24px}.contact .form-status{margin:18px 0 0;min-height:22px;color:var(--text)}
+  .inquiry-form .button{font-family:inherit;cursor:pointer}.inquiry-form .button:disabled{opacity:.55;cursor:not-allowed}.form-honeypot{display:none!important}
+}
+@layer responsive {@media(max-width:700px){.inquiry-form{padding:22px 18px}.form-grid{grid-template-columns:1fr;gap:18px}}}
