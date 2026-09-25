@@ -58,3 +58,4 @@ docs/                        SEO/GEO notes (AUDIT.md), form setup, deployment
 ```
 
 Preview locally: `python3 -m http.server 8765 --directory public`
+
