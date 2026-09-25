@@ -13,8 +13,6 @@
   if (!form) { return; }
   var statusBox = document.getElementById('formStatus');
   var submitBtn = document.getElementById('submitBtn');
-  var startedAt = document.getElementById('formStarted');
-  if (startedAt) { startedAt.value = String(Date.now()); }
 
   var keyConfigured = /^[0-9a-f-]{36}$/i.test(form.elements.access_key.value.trim());
 
@@ -80,9 +78,8 @@
       return;
     }
 
-    /* honeypot / too-fast submissions: pretend success, send nothing */
-    var tooFast = startedAt && (Date.now() - Number(startedAt.value)) < 2500;
-    if (form.elements.company_website.value || form.elements.botcheck.checked || tooFast) {
+    /* Web3Forms honeypot checkbox (never autofilled): pretend success, send nothing */
+    if (form.elements.botcheck && form.elements.botcheck.checked) {
       form.reset();
       setStatus('ok', 'Thank you.', 'Your message has been received.');
       return;
@@ -98,8 +95,6 @@
     /* one readable name for the email Web3Forms sends; reply-to = sender */
     data.set('name', (data.get('first_name') + ' ' + data.get('last_name')).trim());
     data.set('replyto', data.get('email'));
-    data.delete('company_website');
-    data.delete('form_started');
 
     busy(true);
     var controller = 'AbortController' in window ? new AbortController() : null;
@@ -116,7 +111,6 @@
         busy(false);
         if (json && json.success === true) {
           form.reset();
-          if (startedAt) { startedAt.value = String(Date.now()); }
           setStatus('ok', 'Thank you — your message is on its way to Bibi.',
             'She will reply to the email address you provided.');
           if (typeof window.gtag === 'function') {
