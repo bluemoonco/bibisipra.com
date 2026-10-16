@@ -69,7 +69,7 @@ Legal entities across Asia-Pacific, EMEA, Latin America, Canada and the United S
 - Led accounting, legal, treasury and external advisors through the income tax footnote for the annual financial statements; used data tools to shorten the close-to-provision turnaround.
 - At the close of the engagement the company asked to move all of its tax work from its Big 4 provider to her.
 
-### Ernst & Young LLP, Tampa, Florida | January 2016 – March 2023
+### Ernst & Young LLP | January 2016 – March 2023
 
 Tax Senior Manager (August 2022 – March 2023) · Tax Manager (October 2019 – August 2022, early promotion) · Tax Senior (October 2017 – October 2019) · Tax Staff (January 2016 – October 2017)
 
