@@ -114,7 +114,7 @@ Global Compliance & Reporting practice. Public, private and private equity-backe
 
 **What does a contract Senior Tax Manager do?** A contract Senior Tax Manager steps into a corporate tax department or a public accounting team for a defined period to run provision cycles, review and sign off returns, lead special projects or cover an open seat, without the cost or commitment of a permanent hire. Bibi has done this for Big 4 firms and for multinational companies since 2023.
 
-**Is Bibi Sipra available for full-time roles?** Yes. She is available for full-time Senior Tax Manager and Tax Director roles as well as contract, fractional and interim engagements. Every contract client to date has offered her a full-time position.
+**Is Bibi Sipra available for full-time roles?** Her focus is contract, fractional and interim work, and she also considers full-time Senior Tax Manager or Tax Director roles. Each of her contract clients has offered her a full-time position.
 
 **What is Bibi Sipra's experience with ASC 740?** More than ten years, including auditing income tax provisions for SEC registrants at EY, managing up to five year-end provisions in one cycle, insourcing a multinational's provision from a Big 4 firm with no audit findings, and building an IFRS provision footnote from scratch for a private equity-owned group during a go-private transaction.
 
