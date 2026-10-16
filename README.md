@@ -64,5 +64,5 @@ Preview locally: `python3 -m http.server 8765 --directory public`
 
 ## Résumé page (`/resume/`)
 
-`/experience`, `/cv` and `/resume.html` redirect to `/resume/`. When the résumé changes, update **three** places: `public/resume/index.html` (the visible page **and** its JSON-LD block), `public/resume.md`, and the `dateModified` / sitemap `lastmod`. Contact details stay as the form + LinkedIn; the Gmail address and phone number are deliberately not in page source. "Print / save as PDF" uses the print stylesheet in `resume.css`.
+`/experience`, `/cv` and `/resume.html` redirect to `/resume/`. When the résumé changes, update **three** places: `public/resume/index.html` (the visible page **and** its JSON-LD block), `public/resume.md`, and the `dateModified` / sitemap `lastmod`. Contact details stay as the form + LinkedIn; the Gmail address and phone number are deliberately not in page source. The "PDF" button uses the print stylesheet in `resume.css`.
 
