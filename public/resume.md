@@ -88,7 +88,6 @@ Global Compliance & Reporting practice. Public, private and private equity-backe
 ### Earlier career
 
 - CBIZ MHM, LLC, Tampa — Tax Intern, January 2014 – August 2014: 135 federal returns (Forms 1120, 1120-S, 1065, 1041 and high-net-worth 1040), Forms 5471, 5472, 8858 and FBAR, Section 263A, Section 179 and bonus depreciation.
-- CPA Partners, LLC, Seminole, Florida — Accounting Clerk, February 2013 – December 2013: accrual-to-cash conversions, monthly financial statements and litigation support workpapers for Deepwater Horizon settlement claims.
 
 ## Industries and company types served
 
