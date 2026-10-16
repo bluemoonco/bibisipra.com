@@ -48,8 +48,8 @@ Private equity-owned multinational, approximately US$1 billion in revenue, opera
 - Built a Section 904 overall foreign loss, overall domestic loss and separate limitation loss allocation and recapture model following Reg. 1.904(g)-3, and reconstructed the group's ODL accounts back to 2018.
 - Analyzed Section 863(b) sourcing of toll-manufactured versus contract-manufactured inventory for foreign tax credit and FDII purposes, and the Reg. 1.1502-9 apportionment of loss accounts to a member leaving the consolidated group.
 - Managed a BEAT (Form 8991) analysis following a deconsolidation, reclassifying prior-year Schedule A items and drafting disclosures.
-- Authored the Australian capital gains tax memo (ITAA 1997) on the in-specie transfer of an African operating subsidiary and the dissolution of its holding company, covering CGT events G1 and C2, allocable cost amount resets on MEC entry, roll-over analysis and the Subdivision 768-G participation exemption, in support of an FY2024 amendment disclosure.
-- Documented an A$5.8 million intercompany loan write-off as a CGT capital loss rather than a bad-debt deduction, including Division 230 (TOFA) scoping, consistent with the position agreed with the ATO.
+- Prepared all calculations and disclosures for the Australian corporate income tax return, including controlled foreign company attributable income from the Australian parent's perspective.
+- Built the debt tracing calculation for Australia's new debt deduction creation rules (DDCR) from scratch in their first year of application.
 - Coordinated the Australian income tax return and restructuring add-backs with the group's Big 4 advisor.
 
 **Senior Tax Manager, Multistate Compliance (recurring seasonal contract via MBO Partners) — Deloitte, Multistate Tax, New York | July 2024 – Present**
