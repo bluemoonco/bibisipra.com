@@ -60,9 +60,9 @@ Annual July-to-November state compliance season.
 - Researched industry-specific sourcing methodologies, group filing methodologies and nexus positions, producing $6 million in look-back state tax savings.
 - Resolved complex state tax matters across diverse entities and affiliates and reviewed high-volume return packages before filing.
 
-**Senior Tax Manager, Tax Provision (contract via a fractional finance firm) — high-profile multinational sports media and entertainment company | January 2024 – April 2024**
+**Senior Tax Manager, Tax Provision (fractional) — high-profile multinational sports media and entertainment company | January 2024 – April 2024**
 
-Approximately $45 million in revenue with legal entities across Asia-Pacific, EMEA, Latin America, Canada and the United States.
+Legal entities across Asia-Pacific, EMEA, Latin America, Canada and the United States.
 
 - Transitioned the end-to-end ASC 740 income tax provision from a Big 4 firm to an in-house model, cutting advisory spend 80% with no audit findings; primary contact for executive leadership and external auditors.
 - Computed uncertain tax positions, valuation allowances by jurisdiction (including US deferred tax asset reversal scheduling against indefinite-lived intangibles) and ASC 718 stock compensation tax effects; validated global deferred taxes and income taxes payable and receivable.
