@@ -40,6 +40,8 @@ Every push to `main` deploys. Then:
 ```
 public/
   index.html                 the whole profile (one page)
+  resume/index.html          full résumé: expanded experience, FAQ, availability (JSON-LD Person/FAQ)
+  resume.md                  the same résumé as Markdown for AI crawlers — keep in sync with resume/index.html
   thank-you/index.html       no-JS form landing page (noindex)
   privacy/index.html
   404.html
@@ -51,6 +53,7 @@ public/
   apple-touch-icon.png
   assets/
     site.css, contact.js     styles + form logic (bump ?v= in the HTML when changed)
+    resume.css, resume.js    résumé page styles (incl. print/PDF) + print button
     bibi-sipra-cpa-*.webp    hero portrait (desktop 1920/1280, mobile crop)
     bibi-sipra-cpa-og.jpg    1200x630 LinkedIn/social share card
     favicon.svg
@@ -58,4 +61,8 @@ docs/                        SEO/GEO notes (AUDIT.md), form setup, deployment
 ```
 
 Preview locally: `python3 -m http.server 8765 --directory public`
+
+## Résumé page (`/resume/`)
+
+`/experience`, `/cv` and `/resume.html` redirect to `/resume/`. When the résumé changes, update **three** places: `public/resume/index.html` (the visible page **and** its JSON-LD block), `public/resume.md`, and the `dateModified` / sitemap `lastmod`. Contact details stay as the form + LinkedIn; the Gmail address and phone number are deliberately not in page source. "Print / save as PDF" uses the print stylesheet in `resume.css`.
 
