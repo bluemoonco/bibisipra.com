@@ -10,7 +10,7 @@
 
 ## Summary
 
-Bibi Sipra is a Certified Public Accountant and former Ernst & Young Tax Senior Manager who works as an independent contract and fractional corporate tax professional. She has more than ten years of corporate income tax experience: seven years at EY in Global Compliance & Reporting (Tax Staff, Tax Senior, Tax Manager, Tax Senior Manager) and, since 2023, project-based engagements with Big 4 firms and multinational companies.
+Bibi Sipra, CPA, is a Senior Tax Manager who works with corporate tax departments and Big 4 firms on a contract, fractional and interim basis. She spent seven years at Ernst & Young in the Global Compliance & Reporting practice, rising from Tax Staff to Tax Senior Manager, and has taken on project-based engagements with multinational companies and Big 4 firms since 2023. Her corporate income tax experience totals more than ten years.
 
 Her specialties are ASC 740 accounting for income taxes (income tax provision, deferred taxes, valuation allowances, uncertain tax positions, income tax footnotes), US federal and multistate corporate income tax compliance, US international tax (foreign tax credit and Form 1118, Section 904 loss accounts, income sourcing, BEAT, FDII, GILTI, Forms 5471, 5472 and 8858) and Australian corporate tax for a multiple-entry consolidated (MEC) group. She also works under IFRS (IAS 12) for foreign-parented and private equity-owned groups.
 
