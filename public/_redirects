@@ -5,3 +5,11 @@
 /about.html      /           301
 /uploads/*       /           301
 /store/*         /           301
+
+# Résumé aliases -> canonical page
+/experience      /resume/   301
+/experience/     /resume/   301
+/cv              /resume/   301
+/cv/             /resume/   301
+/resume.html     /resume/   301
+/resume.pdf      /resume/   301

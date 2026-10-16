@@ -77,6 +77,7 @@ p { margin: 0 0 1em; }
 .card h3 { font-size: 22px; letter-spacing: -.5px; line-height: 1.25; margin-bottom: 10px; }
 .card .meta { font: 700 13px/1.4 var(--poppins); letter-spacing: .08em; text-transform: uppercase; color: var(--blue-text); margin-bottom: 8px; }
 .card p { font-size: 16px; line-height: 1.7; }
+.band__cta { margin: 36px 0 0; }
 
 /* target roles */
 .targets { display: grid; grid-template-columns: 1fr 1fr; gap: 34px; }

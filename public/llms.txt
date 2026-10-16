@@ -3,6 +3,7 @@
 > Big 4 (EY) trained US CPA and Senior Tax Manager. US corporate tax compliance and reporting for Fortune 500, multinational and pre-IPO companies: ASC 740 income tax provision, SEC reporting, international tax provision, US federal and multistate compliance. Open to US and Asia-Pacific (APAC) corporate tax roles — full-time, contingent or fractional; onsite or remote.
 
 Canonical profile: https://www.bibisipra.com/
+Full résumé (expanded experience, FAQ, availability): https://www.bibisipra.com/resume/ — Markdown version: https://www.bibisipra.com/resume.md
 Contact / CV requests: https://www.bibisipra.com/#contact (Direct Contact form; messages go directly to Bibi)
 
 ## Summary
@@ -14,8 +15,12 @@ Contact / CV requests: https://www.bibisipra.com/#contact (Direct Contact form; 
 - Engagement types: full-time, contingent, fractional; onsite or remote
 
 ## Experience
-- EY, 2016–2023: Tax Staff through Tax Senior and Tax Manager to Tax Senior Manager, Global Compliance and Reporting; public and private multinational clients.
-- Selected project: led and mentored two teams of Deloitte tax professionals (11 and 8 members) preparing and filing 495+ multistate corporate tax returns in ONESOURCE Income Tax.
+- Independent corporate tax consultant, March 2023–present: contract, fractional and interim Senior Tax Manager engagements with Big 4 firms and multinational companies (via Korn Ferry and MBO Partners). Every contract engagement to date has ended with a full-time offer.
+- Senior Tax Manager, US International and Australian Tax (contract), April 2025–present: private equity-owned global drilling services company (~US$1B revenue) — IFRS provision through a go-private year, Form 1118 foreign tax credit model, Section 904 OFL/ODL/SLL reconstruction, BEAT (Form 8991), Section 863(b) sourcing, Australian CGT/MEC/TOFA memos.
+- Senior Tax Manager, Multistate Compliance (recurring seasonal contract), Deloitte Multistate Tax, July 2024–present: led two teams (11 and 8 professionals) filing 495+ multistate corporate returns in ONESOURCE Income Tax for $12B–$50B companies; $6M look-back state tax savings.
+- Senior Tax Manager, Tax Provision (contract), January–April 2024: insourced a multinational sports media company's ASC 740 provision from a Big 4 firm, cutting advisory spend 80% with no audit findings.
+- EY, 2016–2023: Tax Staff through Tax Senior and Tax Manager to Tax Senior Manager, Global Compliance and Reporting; public, private and PE-backed multinational clients up to ~$45B revenue; ASC 740 audit lead for SEC filers, a pre-IPO S-1 and a PE carve-out; global purchase accounting for a $37B acquisition.
+- Full detail: https://www.bibisipra.com/resume/
 - Credentials: Certified Public Accountant (CPA). MBA (summa cum laude) and undergraduate studies in business management and accounting, University of South Florida.
 
 ## Areas of expertise
@@ -27,6 +32,11 @@ Contact / CV requests: https://www.bibisipra.com/#contact (Direct Contact form; 
 
 ## Keywords
 US CPA; Big 4; EY alum; Senior Tax Manager; Tax Director; corporate tax; ASC 740; income tax provision; tax accounting; US GAAP; SEC reporting; international tax; cross-border tax; multistate tax; federal tax compliance; ONESOURCE; APAC; Asia-Pacific; Singapore; Malaysia; Thailand; Indonesia; multinational; Fortune 500; pre-IPO; contingent; fractional; interim tax; remote; Tampa Bay; Florida.
+
+## Pages
+- https://www.bibisipra.com/ — profile, target roles and locations, recruiter FAQ, contact form
+- https://www.bibisipra.com/resume/ — full résumé: summary, job titles matched, engagement types, areas of expertise, professional experience, industries, education, FAQ, availability
+- https://www.bibisipra.com/resume.md — the résumé as plain Markdown
 
 ## Other profiles
 - LinkedIn: https://www.linkedin.com/in/bibisipra/
