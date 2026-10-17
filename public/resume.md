@@ -14,7 +14,7 @@ Bibi Sipra, CPA, is a Senior Tax Manager who works with corporate tax department
 
 Her specialties are ASC 740 accounting for income taxes (income tax provision, deferred taxes, valuation allowances, uncertain tax positions, income tax footnotes), US federal and multistate corporate income tax compliance, US international tax (foreign tax credit and Form 1118, Section 904 loss accounts, income sourcing, BEAT, FDDEI (formerly FDII), GILTI, Forms 5471, 5472 and 8858) and Australian corporate tax for a multiple-entry consolidated (MEC) group. She also works under IFRS (IAS 12) for foreign-parented and private equity-owned groups.
 
-Companies engage her for busy-season surge capacity, interim coverage of a Senior Tax Manager or Tax Director seat, post-acquisition and post-restructuring tax projects, provision insourcing, and technical special projects that would otherwise go to a Big 4 firm. Every contract engagement to date has ended with a full-time offer. She uses AI tools to build tax models and draft memos faster, and reviews and ties out every output herself.
+Companies engage her for busy-season surge capacity, interim coverage of a Senior Tax Manager or Tax Director seat, post-acquisition and post-restructuring tax projects, provision insourcing, and technical special projects that would otherwise go to a Big 4 firm. Every contract engagement to date has ended with a full-time offer. She builds AI agents and skills on frontier models to speed up model building, tie-outs and memo drafting, and reviews and ties out every output herself.
 
 ## For Asia-Pacific employers
 
@@ -39,7 +39,7 @@ US-qualified tax leadership for a regional team in Singapore, Kuala Lumpur, Bang
 - **US international tax:** foreign tax credit and Form 1118 (all schedules); Section 904 limitation, overall foreign loss (OFL), overall domestic loss (ODL) and separate limitation loss (SLL) accounts; Section 861 expense allocation and apportionment; Section 863(b) sourcing of inventory sales; GILTI (Form 8992); Subpart F; FDDEI (Form 8993, formerly FDII); BEAT (Form 8991); Section 267A hybrid rules; Forms 5471, 5472 and 8858; controlled foreign corporation reporting; transfer pricing coordination; Pillar Two awareness.
 - **State and local income tax:** multistate corporate income and franchise tax compliance; apportionment and sourcing methodologies; nexus analysis; unitary and combined filing; separate-company states; state NOL tracking; state addbacks; look-back refund reviews; high-volume return review in ONESOURCE Income Tax.
 - **Australian corporate tax:** multiple-entry consolidated (MEC) groups; allocable cost amount (ACA) cost-base resets; capital gains tax events (ITAA 1997); Subdivision 768-G participation exemption; Division 230 taxation of financial arrangements (TOFA); intercompany loan write-offs; restructuring add-backs; coordination with the ATO position and the group's Big 4 advisor.
-- **Leadership and delivery:** Tax Account Leader on Big 4 client portfolios; review and sign-off of federal and state returns; management of US staff, offshore (GDS) teams and up to 12 direct reports; engagement budgets, margins, scope and fee negotiation; executive and audit committee communication; technical memo and workpaper design; AI-assisted model and memo development with full technical review.
+- **Leadership and delivery:** Tax Account Leader on Big 4 client portfolios; review and sign-off of federal and state returns; management of US staff, offshore (GDS) teams and up to 12 direct reports; engagement budgets, margins, scope and fee negotiation; executive and audit committee communication; technical memo and workpaper design; AI agent and skill development for tax workflows on frontier models, with full technical review.
 
 ## Professional experience
 
@@ -54,7 +54,7 @@ Private equity-owned multinational, approximately US$1 billion in revenue, opera
 - Right hand to the Senior Tax Director on the IFRS income tax provision through the go-private transaction year, then on US international tax and Australian corporate tax special projects.
 - Built the income tax footnote from scratch for the newly created entities that house the acquisition's purchase accounting entries (IFRS permits no pushdown accounting): calculated the deferred taxes, reconciled the entries by entity and by jurisdiction to prevent netting errors, and passed audit with no adjustments.
 - Managed the IFRS-based tax provision through a transaction-year close under compressed deadlines and heavy auditor scrutiny.
-- Built a fully linked Form 1118 foreign tax credit limitation model (Schedules A through K across all separate categories) with automated tie-outs and a summary dashboard. Developed the template with AI assistance from the form instructions, with no client data in the tool, and reviewed and tied out every formula before use.
+- Built a fully linked Form 1118 foreign tax credit limitation model (Schedules A through K across all separate categories) with automated tie-outs and a summary dashboard.
 - Built a Section 904 overall foreign loss, overall domestic loss and separate limitation loss allocation and recapture model following Reg. 1.904(g)-3, and reconstructed the group's ODL accounts back to 2018.
 - Analyzed Section 863(b) sourcing of toll-manufactured versus contract-manufactured inventory for foreign tax credit and FDDEI purposes, and the Reg. 1.1502-9 apportionment of loss accounts to a member leaving the consolidated group.
 - Managed a BEAT (Form 8991) analysis following a deconsolidation, reclassifying prior-year Schedule A items and drafting disclosures.
@@ -110,7 +110,8 @@ Global Compliance & Reporting practice. Public, private and private equity-backe
 - Certified Public Accountant (CPA), State of Florida, active license
 - Master of Business Administration (MBA), Accounting and Business Management, University of South Florida St. Petersburg, December 2015 — summa cum laude; 4.0 GPA; Beta Gamma Sigma; Beta Alpha Psi
 - Bachelor of Arts (BA), Business Management and Accounting, University of South Florida St. Petersburg
-- Tax software: Thomson Reuters ONESOURCE Income Tax; GoSystem Tax RS; advanced Microsoft Excel modeling; AI-assisted workpaper and model development (every output reviewed and tied out)
+- Tax software: Thomson Reuters ONESOURCE Income Tax; GoSystem Tax RS; advanced Microsoft Excel modeling
+- AI: frontier AI models; AI agents for model building, tie-outs, reconciliations and memo drafting; custom AI skills for recurring tax workflows (every output reviewed and tied out)
 - ERP and accounting systems: NetSuite; QuickBooks; Sage
 - Languages: English (native); Spanish (professional working proficiency)
 - Community: Board Member, Suncoast Housing Connections, a Tampa Bay affordable-housing nonprofit, January 2023 to present
@@ -136,7 +137,7 @@ Global Compliance & Reporting practice. Public, private and private equity-backe
 
 **How is she engaged?** Through a client's preferred contracting vendor (she has worked through Korn Ferry and MBO Partners on W-2 arrangements), through consulting platforms, directly as a 1099 independent contractor, or as a full-time employee.
 
-**Does she use AI in her work?** Yes, within professional standards. She uses AI tools to accelerate template building, formula logic and first drafts of technical memos, and she reviews, ties out and signs off on every output herself, as Circular 230 and the AICPA Code require. Client data stays out of public AI tools.
+**Does she use AI in her work?** Yes. AI is a core part of how she works, within professional standards. She works daily with frontier AI models and agentic tools: AI agents that read form instructions, regulations and source workpapers, build and test spreadsheet models, run tie-outs and reconciliations, and draft technical memos and disclosures. She also develops reusable AI skills that encode recurring tax workflows, so the same review steps and documentation standards run the same way every time. She reviews, ties out and signs off on every output herself, as Circular 230 and the AICPA Code require, and client data stays out of public AI tools.
 
 **How can recruiters or hiring managers contact her?** Through the Direct Contact form at https://www.bibisipra.com/#contact (messages go straight to her inbox) or on LinkedIn at https://www.linkedin.com/in/bibisipra/.
 
