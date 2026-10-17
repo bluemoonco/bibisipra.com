@@ -64,7 +64,7 @@ Preview locally: `python3 -m http.server 8765 --directory public`
 
 ## Resume page (`/resume/`)
 
-`/experience`, `/cv` and `/resume.html` redirect to `/resume/`. When the resume changes, update **three** places: `public/resume/index.html` (the visible page **and** its JSON-LD block), `public/resume.md`, and the `dateModified` / sitemap `lastmod`. Contact details stay as the form + LinkedIn; the Gmail address and phone number are deliberately not in page source. The "Download PDF" buttons serve `public/bibi-sipra-cpa-resume.pdf`, built from the print stylesheet by `tools/build_resume_pdf.py` (it hides the web-only roles grid and FAQ). **Rebuild the PDF after every resume edit** (fourth place to update).
+`/experience`, `/cv` and `/resume.html` redirect to `/resume/`. When the resume changes, update **three** places: `public/resume/index.html` (the visible page **and** its JSON-LD block), `public/resume.md`, and the `dateModified` / sitemap `lastmod`. Then regenerate `public/llms-full.txt` (it is simply `llms.txt` + `---` + `resume.md`). Contact details stay as the form + LinkedIn; the Gmail address and phone number are deliberately not in page source. The "Download PDF" buttons serve `public/bibi-sipra-cpa-resume.pdf`, built from the print stylesheet by `tools/build_resume_pdf.py` (it hides the web-only roles grid and FAQ). **Rebuild the PDF after every resume edit** (fourth place to update).
 
 
 ## Analytics (GA4 `G-ZWTT5H8EGW`)

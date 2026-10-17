@@ -16,6 +16,16 @@ Her specialties are ASC 740 accounting for income taxes (income tax provision, d
 
 Companies engage her for busy-season surge capacity, interim coverage of a Senior Tax Manager or Tax Director seat, post-acquisition and post-restructuring tax projects, provision insourcing, and technical special projects that would otherwise go to a Big 4 firm. Every contract engagement to date has ended with a full-time offer. She uses AI tools to build tax models and draft memos faster, and reviews and ties out every output herself.
 
+## For Asia-Pacific employers
+
+US-qualified tax leadership for a regional team in Singapore, Kuala Lumpur, Bangkok, Jakarta or Hong Kong — the US side of a US-parented or US-listed group's Asia-Pacific operations.
+
+- US international tax from the US-parent perspective: foreign tax credit and Form 1118, Section 904 loss accounts, GILTI, Subpart F, FDDEI (formerly FDII), BEAT, Forms 5471, 5472 and 8858.
+- ASC 740 for SEC registrants and IFRS (IAS 12) for foreign-parented groups: quarterly and year-end provision, deferred taxes, valuation allowances, uncertain tax positions and footnotes for 10-K, 10-Q and S-1 filings, plus PCAOB audit support.
+- Asia-Pacific jurisdiction experience: Australian corporate income tax for a multiple-entry consolidated group, including controlled foreign company attributable income and the debt deduction creation rules (DDCR); coordination with Big 4 advisors and the ATO position.
+- Cross-border delivery: managed US and offshore (GDS) teams across time zones at EY; provision and compliance for groups with entities across Asia-Pacific, EMEA, Latin America and North America.
+- Location: based in the US Eastern time zone today; open to relocation within Asia-Pacific for the right role; available remotely for US-side work in the meantime.
+
 ## Roles and engagement types
 
 - Target roles & titles: Senior Tax Manager · Tax Manager · Tax Director · Director of Tax · Head of Tax · Tax Accounting Manager · Income Tax Provision Manager · ASC 740 Specialist · Tax Reporting Manager · International Tax Manager · State and Local Tax (SALT) Manager · Tax Compliance Manager · Corporate Tax Consultant
