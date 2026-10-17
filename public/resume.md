@@ -43,7 +43,7 @@ US-qualified tax leadership for a regional team in Singapore, Kuala Lumpur, Bang
 
 ## Professional experience
 
-### Independent Corporate Tax Consultant | March 2023 – Present
+### Corporate Tax Consultant | March 2023 – Present
 
 Project-based, fractional and interim corporate tax engagements with Big 4 firms and multinational companies, administered through Korn Ferry and MBO Partners.
 
