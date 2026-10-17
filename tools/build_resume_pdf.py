@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Build public/bibi-sipra-cpa-resume.pdf from the live résumé page's print stylesheet.
+"""Build public/bibi-sipra-cpa-resume.pdf from the live resume page's print stylesheet.
 
-Run from the repo root after any résumé edit:
+Run from the repo root after any resume edit:
     python3 -m http.server 8765 --directory public &   # local preview server
     python3 tools/build_resume_pdf.py
 Needs Playwright with Chromium (pip install playwright && playwright install chromium).
 The PDF drops the web-only sections (roles grid, FAQ) so it reads as a
-standard recruiter résumé; everything else comes from resume.css @media print.
+standard recruiter resume; everything else comes from resume.css @media print.
 """
 import asyncio, sys
 from playwright.async_api import async_playwright

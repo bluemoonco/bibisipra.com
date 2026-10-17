@@ -6,7 +6,7 @@
 /uploads/*       /           301
 /store/*         /           301
 
-# Résumé aliases -> canonical page
+# Resume aliases -> canonical page
 /experience      /resume/   301
 /experience/     /resume/   301
 /cv              /resume/   301

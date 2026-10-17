@@ -40,8 +40,8 @@ Every push to `main` deploys. Then:
 ```
 public/
   index.html                 the whole profile (one page)
-  resume/index.html          full résumé: expanded experience, FAQ, availability (JSON-LD Person/FAQ)
-  resume.md                  the same résumé as Markdown for AI crawlers — keep in sync with resume/index.html
+  resume/index.html          full resume: expanded experience, FAQ, availability (JSON-LD Person/FAQ)
+  resume.md                  the same resume as Markdown for AI crawlers — keep in sync with resume/index.html
   thank-you/index.html       no-JS form landing page (noindex)
   privacy/index.html
   404.html
@@ -53,7 +53,7 @@ public/
   apple-touch-icon.png
   assets/
     site.css, contact.js     styles + form logic (bump ?v= in the HTML when changed)
-    resume.css, resume.js    résumé page styles (incl. print/PDF) + print button
+    resume.css, resume.js    resume page styles (incl. print/PDF) + print button
     bibi-sipra-cpa-*.webp    hero portrait (desktop 1920/1280, mobile crop)
     bibi-sipra-cpa-og.jpg    1200x630 LinkedIn/social share card
     favicon.svg
@@ -62,13 +62,13 @@ docs/                        SEO/GEO notes (AUDIT.md), form setup, deployment
 
 Preview locally: `python3 -m http.server 8765 --directory public`
 
-## Résumé page (`/resume/`)
+## Resume page (`/resume/`)
 
-`/experience`, `/cv` and `/resume.html` redirect to `/resume/`. When the résumé changes, update **three** places: `public/resume/index.html` (the visible page **and** its JSON-LD block), `public/resume.md`, and the `dateModified` / sitemap `lastmod`. Contact details stay as the form + LinkedIn; the Gmail address and phone number are deliberately not in page source. The "Download PDF" buttons serve `public/bibi-sipra-cpa-resume.pdf`, built from the print stylesheet by `tools/build_resume_pdf.py` (it hides the web-only roles grid and FAQ). **Rebuild the PDF after every résumé edit** (fourth place to update).
+`/experience`, `/cv` and `/resume.html` redirect to `/resume/`. When the resume changes, update **three** places: `public/resume/index.html` (the visible page **and** its JSON-LD block), `public/resume.md`, and the `dateModified` / sitemap `lastmod`. Contact details stay as the form + LinkedIn; the Gmail address and phone number are deliberately not in page source. The "Download PDF" buttons serve `public/bibi-sipra-cpa-resume.pdf`, built from the print stylesheet by `tools/build_resume_pdf.py` (it hides the web-only roles grid and FAQ). **Rebuild the PDF after every resume edit** (fourth place to update).
 
 
 ## Analytics (GA4 `G-ZWTT5H8EGW`)
 
-`assets/analytics.js` (loaded on every page) sends the conversion events; `contact.js` sends `generate_lead` on a successful form submit. Key events marked in GA4: **generate_lead**, **linkedin_click**, **resume_download**. `resume_click` (home → résumé CTA) is tracked but not a key event. Add `data-cta="<location>"` to a link to label where it was clicked. Don't rename events without updating GA4.
+`assets/analytics.js` (loaded on every page) sends the conversion events; `contact.js` sends `generate_lead` on a successful form submit. Key events marked in GA4: **generate_lead**, **linkedin_click**, **resume_download**. `resume_click` (home → resume CTA) is tracked but not a key event. Add `data-cta="<location>"` to a link to label where it was clicked. Don't rename events without updating GA4.
 
 Share links with UTM tags (canonical **www**), e.g. `https://www.bibisipra.com/?utm_source=linkedin&utm_medium=profile`. Never put UTMs on internal links.

@@ -1,4 +1,4 @@
-# Bibi Sipra, CPA — Résumé
+# Bibi Sipra, CPA — Resume
 
 > Senior Tax Manager · ASC 740 and IAS 12 income tax provision · US international tax · Multistate compliance · Australian corporate tax. Former Ernst & Young Tax Senior Manager. Full-time, contract, fractional and interim roles.
 

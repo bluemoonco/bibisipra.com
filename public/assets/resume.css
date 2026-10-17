@@ -120,7 +120,7 @@ body.resume .wrap { max-width: calc(1080px + 48px); }
   .rsec { padding-bottom: 40px; margin-bottom: 40px; }
 }
 
-/* ---------- print: a clean one-column résumé ---------- */
+/* ---------- print: a clean one-column resume ---------- */
 @media print {
   @page { margin: 16mm 14mm; }
   body.resume, body.resume .rhead, body.resume .rbody { background: #fff !important; color: #222; }
