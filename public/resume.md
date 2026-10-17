@@ -18,7 +18,7 @@ Companies engage her for busy-season surge capacity, interim coverage of a Senio
 
 ## Roles and engagement types
 
-- Job titles matched: Senior Tax Manager · Tax Manager · Tax Director · Director of Tax · Head of Tax · Tax Accounting Manager · Income Tax Provision Manager · ASC 740 Specialist · Tax Reporting Manager · International Tax Manager · State and Local Tax (SALT) Manager · Tax Compliance Manager · Corporate Tax Consultant
+- Target roles & titles: Senior Tax Manager · Tax Manager · Tax Director · Director of Tax · Head of Tax · Tax Accounting Manager · Income Tax Provision Manager · ASC 740 Specialist · Tax Reporting Manager · International Tax Manager · State and Local Tax (SALT) Manager · Tax Compliance Manager · Corporate Tax Consultant
 - Engagement types: Full-time employee · Contract tax manager · Interim tax director · Fractional tax manager · Project-based tax consultant · Busy-season tax contractor · Loaned staff to Big 4 and national accounting firms · Independent tax consultant · W-2 contract through Korn Ferry, MBO Partners or a client's preferred vendor · 1099 independent contractor
 - Typical scenarios: year-end and quarterly provision support · Big 4 busy-season overflow · coverage for parental leave, resignation or open requisition · first audit cycle after an acquisition or go-private transaction · moving the tax provision in-house from an outside firm · SEC comment letter or restatement rework · amended returns and catch-up state filings · foreign tax credit, loss-account and sourcing special projects · US tax support for an Australian, Canadian or other foreign-parented group
 
@@ -67,7 +67,7 @@ Legal entities across Asia-Pacific, EMEA, Latin America, Canada and the United S
 - Transitioned the end-to-end ASC 740 income tax provision from a Big 4 firm to an in-house model, cutting advisory spend 80% with no audit findings; primary contact for executive leadership and external auditors.
 - Computed uncertain tax positions, valuation allowances by jurisdiction (including US deferred tax asset reversal scheduling against indefinite-lived intangibles) and ASC 718 stock compensation tax effects; validated global deferred taxes and income taxes payable and receivable.
 - Led accounting, legal, treasury and external advisors through the income tax footnote for the annual financial statements; used data tools to shorten the close-to-provision turnaround.
-- At the close of the engagement the company asked to move all of its tax work from its Big 4 provider to her.
+- At the close of the engagement, the company asked to transition all of its corporate tax work away from its Big 4 provider to an ongoing direct engagement.
 
 ### Ernst & Young LLP | January 2016 – March 2023
 
@@ -133,6 +133,6 @@ Global Compliance & Reporting practice. Public, private and private equity-backe
 ## Availability, location and contact
 
 - Current status: engaged on a special-projects contract through November 2026, with limited capacity for part-time or advisory work before then.
-- Next full availability: December 2026 for part-time or full-time contract engagements, or a full-time role. Start conversations now for Q1 2027 provision season.
+- Next full availability: December 2026 for part-time or full-time contract engagements, or a full-time role. If you are planning coverage for the Q1 2027 provision cycle, a transaction close, or an open Senior Manager or Director seat, reach out now to lock in scope and timing.
 - Location: St. Petersburg, Florida (Tampa Bay). Remote anywhere in the United States; on-site available; open to relocation within Asia-Pacific for the right role.
 - Contact: https://www.bibisipra.com/#contact · https://www.linkedin.com/in/bibisipra/ · https://www.bibisipra.com/
