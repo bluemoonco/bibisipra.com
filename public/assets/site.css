@@ -159,3 +159,6 @@ p { margin: 0 0 1em; }
   .hero, .band--black, .site-footer { background: #fff; }
 }
 body:has(.page) { background: var(--black); }
+
+/* hero CTAs: résumé first (Oct 2026 GA4: 46 home views vs 4 résumé views) */
+.hero__actions { display: flex; flex-wrap: wrap; gap: 12px; }
